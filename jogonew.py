@@ -1,4 +1,4 @@
-import customtkinter as ctk
+import tkinter as ctk
 import random
 
 # Configuração da janela

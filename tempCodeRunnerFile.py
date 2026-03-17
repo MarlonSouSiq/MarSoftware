@@ -1,7 +1,3 @@
-if jogador1==jogador2:
-#     print(" Jogo empatado")
-# if jogador1=="Pedra" and jogador2=="Tesoura"  or jogador1=="Papel" and jogador2=="Pedra" or jogador1=="Tesoura" and jogador2=="Papel":
-#     print(" Jogador 1 Venceu")
-# else:
-#     print(" Jogador 2 venceu")
-
+botao= Button(janela, "Buscar Cotações Dolar, Euro, Bitcoin", command=pegar_cotacoes) # pegar_cotação sem parentes, pois se colocar executa na hora
+# botao.grid(column=0,row=1)
+# janela.mainloop()

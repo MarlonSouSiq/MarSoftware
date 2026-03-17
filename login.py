@@ -1,4 +1,4 @@
-import customtkinter as ctk
+import tkinter as ctk
 
 #configuração da aparencia
 ctk.set_appearance_mode('dark')
