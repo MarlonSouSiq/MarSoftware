@@ -1,3 +1,12 @@
-botao= Button(janela, "Buscar Cotações Dolar, Euro, Bitcoin", command=pegar_cotacoes) # pegar_cotação sem parentes, pois se colocar executa na hora
-# botao.grid(column=0,row=1)
-# janela.mainloop()
+for i in range(quantidade):
+    #     end_rua= random.choice(rua)
+    #     end_bairro= random.choice(bairro)
+    #     end_num= random.randint(1,1000)
+    #     tecnico_ins= random.choice(tecnico)
+    #     data_ins=
+
+
+
+    #     print(f'O endereço é : Rua {end_rua}, {end_num} , {end_bairro}')
+
+       
