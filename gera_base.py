@@ -1,3 +1,5 @@
+# codigo para gerar uma base, no final abre em uma janela.
+
 
 import random
 from datetime import datetime,timedelta
